@@ -346,7 +346,7 @@ Update_Shell(){
 start_menu(){
 clear
 msg -bar
-echo -e " TCP Aceleración (BBR/Plus) VPS-MX By @Kalix1 ${Red_font_prefix}[v${sh_ver}]${Font_color_suffix}
+echo -e " TCP Aceleración (BBR/Plus) MOD By Tello ${Red_font_prefix}[v${sh_ver}]${Font_color_suffix}
 $(msg -bar)
  ${Green_font_prefix}0.${Font_color_suffix} Script de actualización
 ————————————Gestión del Núcleo————————————
